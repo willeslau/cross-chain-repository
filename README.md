@@ -3,6 +3,7 @@ This is a simple exercise demoing how to create a cross chain repository using s
 
 The following diagram is a sequence diagram of this exercise.
 ![Overall Sequence Diagram](./docs/CrossChainRepository.drawio.png)
+Link to the DrawIO: https://app.diagrams.net/#G106cG92pQsoy1HXEdVs9sF0KVOmxjH98f
 
 The idea is that, the `Repository Parachain` is storing the metadata in all the 
 participant parachain. It requires a confirmation signal from the participants 
